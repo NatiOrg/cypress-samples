@@ -1,5 +1,5 @@
 # Perfecto & Cypress samples :tada:
-An ready-to-go Cypress samples with Perfecto integration
+Ready-to-go Cypress samples with Perfecto integration
 
 ## :white_check_mark: What's inside
 1. pure-cypress - a sample with pure Cypress setup
